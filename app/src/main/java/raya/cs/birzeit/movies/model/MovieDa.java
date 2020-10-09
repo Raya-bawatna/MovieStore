@@ -7,13 +7,13 @@ public class MovieDa implements IMovieDa {
     private ArrayList<Movie>movies=new ArrayList<>();
 
     public  MovieDa(){
-        movies.add(new Movie("Cat People","Horror","1942"));
-        movies.add(new Movie("Black Sunday","Horror","1960"));
-        movies.add(new Movie("The Great Dictator","Comedy","1940"));
-        movies.add(new Movie("Light up the Sky","Comedy","1960"));
-        movies.add(new Movie("There's Something About Mary","Comedy","1998"));
-        movies.add(new Movie(" The Godfather","Drama","1972"));
-        movies.add(new Movie("The Shawshank Redemption","Drama","1994"));
+        movies.add(new Movie("cat people","Horror","1942"));
+        movies.add(new Movie("black sunday","Horror","1960"));
+        movies.add(new Movie("the great dictator","Comedy","1940"));
+        movies.add(new Movie("light up the sky","Comedy","1960"));
+        movies.add(new Movie("there's something about mary","Comedy","1998"));
+        movies.add(new Movie(" the godfather","Drama","1972"));
+        movies.add(new Movie("the shawshank redemption","Drama","1994"));
 
 
     }
