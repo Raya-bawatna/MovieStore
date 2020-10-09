@@ -103,6 +103,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         }
+        edtMovie.setText("");
 
     }
 }
